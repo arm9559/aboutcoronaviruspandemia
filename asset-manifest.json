@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/arm9559/aboutcoronaviruspandemia/static/css/main.25eeba44.css",
+    "main.js": "/arm9559/aboutcoronaviruspandemia/static/js/main.6778db34.js",
+    "static/js/787.39ea85f2.chunk.js": "/arm9559/aboutcoronaviruspandemia/static/js/787.39ea85f2.chunk.js",
+    "static/media/logo.png": "/arm9559/aboutcoronaviruspandemia/static/media/logo.47e1c02a31b71d88aeae.png",
+    "index.html": "/arm9559/aboutcoronaviruspandemia/index.html",
+    "main.25eeba44.css.map": "/arm9559/aboutcoronaviruspandemia/static/css/main.25eeba44.css.map",
+    "main.6778db34.js.map": "/arm9559/aboutcoronaviruspandemia/static/js/main.6778db34.js.map",
+    "787.39ea85f2.chunk.js.map": "/arm9559/aboutcoronaviruspandemia/static/js/787.39ea85f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25eeba44.css",
+    "static/js/main.6778db34.js"
+  ]
+}
